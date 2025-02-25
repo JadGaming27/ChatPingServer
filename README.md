@@ -7,3 +7,7 @@ then just type in
 ```js
 node .
 ```
+
+linux background exec :
+```bash
+(exec node . &> /dev/null &)
